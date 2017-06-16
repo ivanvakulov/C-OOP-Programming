@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP_02_Vakulov", "OOP_02_Vakulov\OOP_02_Vakulov.vcxproj", "{F75ED095-8F5E-42C8-80CE-55D7584F06A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75ED095-8F5E-42C8-80CE-55D7584F06A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F75ED095-8F5E-42C8-80CE-55D7584F06A6}.Debug|Win32.Build.0 = Debug|Win32
+		{F75ED095-8F5E-42C8-80CE-55D7584F06A6}.Release|Win32.ActiveCfg = Release|Win32
+		{F75ED095-8F5E-42C8-80CE-55D7584F06A6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
